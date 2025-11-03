@@ -8,21 +8,20 @@ Mednex is a revolutionary AI-powered health analysis web application that combin
 
 
 🧠 Overview
-
-**Mednex** is a revolutionary **AI-powered health platform** that provides
+Mednex is a revolutionary AI-powered health platform that provides
 genetic disease detection, personalized health tracking, and an intelligent health chat assistant — all in a sleek, modern web interface.
 
-Built using **React + TypeScript + Tailwind CSS + Vite**, Mednex delivers exceptional performance and a smooth user experience.
+Built using React + TypeScript + Tailwind CSS + Vite, Mednex delivers exceptional performance and a smooth user experience.
 
 
 ✨ Key Features
 
-* 🧬 **Genetic Disease Detection** — Upload or enter genetic data for AI-powered analysis
-* 💬 **AI Health Chat** — Ask questions and receive instant health guidance
-* 🩺 **Health Tracker** — BMI calculator, symptom checker, and health monitoring
-* 📈 **Dashboard Insights** — Visualize long-term health trends
-* 🎤 **Voice Input** — Describe symptoms or genetic info using your voice
-* 💡 **Modern UI** — Smooth, responsive design using Tailwind + ShadCN + Framer Motion
+* 🧬 Genetic Disease Detection — Upload or enter genetic data for AI-powered analysis
+* 💬 AI Health Chat — Ask questions and receive instant health guidance
+* 🩺 Health Tracker — BMI calculator, symptom checker, and health monitoring
+* 📈 Dashboard Insights — Visualize long-term health trends
+* 🎤 Voice Input — Describe symptoms or genetic info using your voice
+* 💡 Modern UI — Smooth, responsive design using Tailwind + ShadCN + Framer Motion
 
 
 ⚙️ Tech Stack
