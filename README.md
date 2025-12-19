@@ -1,6 +1,6 @@
 🧬 Mednex – AI-Powered Health Analysis Platform
 
-Mednex is a revolutionary AI-powered health analysis web application that combines genetic disease detection, personalized health tracking, and intelligent wellness guidance — built using React, TypeScript, Tailwind CSS, and Vite.
+Mednex is a revolutionary AI-powered health analysis web application that combines genetic disease detection, personalized health tracking, and intelligent wellness guidance - built using React, TypeScript, Tailwind CSS, and Vite.
 
 🌍 Live Demo
 
