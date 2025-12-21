@@ -21,7 +21,7 @@ Built using React + TypeScript + Tailwind CSS + Vite, Mednex delivers exceptiona
 * 🩺 Health Tracker — BMI calculator, symptom checker, and health monitoring
 * 📈 Dashboard Insights — Visualize long-term health trends
 * 🎤 Voice Input — Describe symptoms or genetic info using your voice
-* 💡 Modern UI — Smooth, responsive design using Tailwind + ShadCN + Framer Motion
+* 💡 Modern UI — Smooth, responsive design using Tailwind + ShadCN + Framer Motion.
 
 
 ⚙️ Tech Stack
