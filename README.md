@@ -1,43 +1,52 @@
-🧬 Mednex – AI-Powered Health Analysis Platform
+<h1>🧬 Mednex — AI-Powered Health Analysis Platform</h1>
 
-Mednex is a revolutionary AI-powered health analysis web application that combines genetic disease detection, personalized health tracking, and intelligent wellness guidance - built using React, TypeScript, Tailwind CSS, and Vite.
+<p>
+Mednex is a full-stack AI-driven health analysis web application focused on
+<strong>genetic risk insights, personalized health tracking, and intelligent assistance</strong>,
+delivered through a fast, modern interface.
+</p>
 
-🌍 Live Demo
+<p>
+<strong>Live Demo:</strong>
+<a href="https://mednex-hackvision.netlify.app" target="_blank">
+https://mednex-hackvision.netlify.app
+</a>
+</p>
 
-👉 https://mednex-hackvision.netlify.app
+<hr />
 
+<h2>📌 Problem Statement</h2>
+<p>
+Interpreting genetic and health data is time-consuming, error-prone, and inaccessible to non-experts.
+Mednex reduces manual interpretation effort by providing AI-assisted insights and interactive health
+tools in a single platform.
+</p>
 
-🧠 Overview
-Mednex is a revolutionary AI-powered health platform that provides
-genetic disease detection, personalized health tracking, and an intelligent health chat assistant — all in a sleek, modern web interface.
+<hr />
 
-Built using React + TypeScript + Tailwind CSS + Vite, Mednex delivers exceptional performance and a smooth user experience.
+<h2>🧠 Solution Overview</h2>
+<p>
+Mednex analyzes structured health and genetic inputs to:
+</p>
+<ul>
+  <li>Highlight potential genetic risk patterns</li>
+  <li>Assist users through an AI-powered health chat</li>
+  <li>Provide real-time health metrics and visual insights</li>
+</ul>
 
+<p>
+The platform is optimized for responsiveness, usability, and scalability.
+</p>
 
-✨ Key Features
+<hr />
 
-* 🧬 Genetic Disease Detection — Upload or enter genetic data for AI-powered analysis
-* 💬 AI Health Chat — Ask questions and receive instant health guidance
-* 🩺 Health Tracker — BMI calculator, symptom checker, and health monitoring
-* 📈 Dashboard Insights — Visualize long-term health trends
-* 🎤 Voice Input — Describe symptoms or genetic info using your voice
-* 💡 Modern UI — Smooth, responsive design using Tailwind + ShadCN + Framer Motion
+<h2>✨ Key Features</h2>
+<ul>
+  <li><strong>Genetic Disease Detection</strong> — AI-assisted analysis of user-provided genetic and health data</li>
+  <li><strong>AI Health Chat Assistant</strong> — Context-aware responses for health-related queries</li>
+  <li><strong>Health Tracker</strong> — BMI calculator, symptom tracking, and health monitoring</li>
+  <li><strong>Dashboard Analytics</strong> — Visual representation of long-term health trends</li>
+  <li><strong>Voice-Based Input</strong> — Faster data entry and improved accessibility</li>
+  <li><strong>Modern UI/UX</strong> — Responsive design with smooth animations</li>
+</ul>
 
-
-⚙️ Tech Stack
-
-| Category        | Tools                                  |
-| --------------- | -------------------------------------- |
-| Frontend        | React, TypeScript, Vite                |
-| Styling         | Tailwind CSS, ShadCN UI, Framer Motion |
-| Backend         | Express.js, Node.js                    |
-| AI/Integration  | Builder.io, APIs                       |
-| Deployment      | Netlify / Vercel                       |
-| Package Manager | pnpm                                   |
-
-
-🧑‍💻 Author
--> Varun Singhal
--> Ravindra Singh
--> Amaan Saifi
--> Ozair Ali
