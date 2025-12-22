@@ -15,7 +15,6 @@ Built using React + TypeScript + Tailwind CSS + Vite, Mednex delivers exceptiona
 
 
 ✨ Key Features
-
 * 🧬 Genetic Disease Detection — Upload or enter genetic data for AI-powered analysis
 * 💬 AI Health Chat — Ask questions and receive instant health guidance
 * 🩺 Health Tracker — BMI calculator, symptom checker, and health monitoring
