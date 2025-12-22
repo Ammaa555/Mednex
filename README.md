@@ -109,12 +109,32 @@ The platform is optimized for responsiveness, usability, and scalability.
 
 <h2>🚀 Future Enhancements</h2>
 <ul>
-  <li><strong>Advanced Genetic Models</strong> — Integrate more specialized AI models for deeper and more accurate genetic risk analysis.</li>
-  <li><strong>Wearable Device Integration</strong> — Sync data from smartwatches and fitness bands for real-time health monitoring.</li>
-  <li><strong>Personalized Health Recommendations</strong> — Generate AI-driven lifestyle, diet, and activity suggestions based on user data.</li>
-  <li><strong>Doctor / Expert Portal</strong> — Allow verified medical professionals to review anonymized data and provide insights.</li>
-  <li><strong>Data Privacy Enhancements</strong> — Implement stronger encryption, consent-based data sharing, and audit logs.</li>
-  <li><strong>Multi-language Support</strong> — Improve accessibility by supporting multiple regional and global languages.</li>
+  <li><strong>Advanced Genetic Models</strong> : Integrate more specialized AI models for deeper and more accurate genetic risk analysis.</li>
+  <li><strong>Wearable Device Integration</strong> : Sync data from smartwatches and fitness bands for real-time health monitoring.</li>
+  <li><strong>Personalized Health Recommendations</strong> : Generate AI-driven lifestyle, diet, and activity suggestions based on user data.</li>
+  <li><strong>Doctor / Expert Portal</strong> : Allow verified medical professionals to review anonymized data and provide insights.</li>
+  <li><strong>Data Privacy Enhancements</strong> : Implement stronger encryption, consent-based data sharing, and audit logs.</li>
+  <li><strong>Multi-language Support</strong> : Improve accessibility by supporting multiple regional and global languages.</li>
 </ul>
 
 <hr />
+
+
+<h2>📊 Dashboard Preview</h2>
+<p>
+The Mednex dashboard provides a centralized view of user health data, AI insights, and activity trends.
+It is designed for clarity, fast interpretation, and long-term tracking.
+</p>
+
+<ul>
+  <li>Health metrics visualization (BMI, trends, risk indicators)</li>
+  <li>AI-generated insights and alerts</li>
+  <li>Interactive charts for long-term analysis</li>
+  <li>User-friendly layout optimized for desktop and mobile</li>
+</ul>
+
+<img width="1872" height="874" alt="image" src="https://github.com/user-attachments/assets/319941e1-594d-46d2-b923-53354960ab5e" />
+
+<img width="1867" height="877" alt="image" src="https://github.com/user-attachments/assets/055061e0-60db-4ce2-8d6b-e28fcafed3e5" />
+
+
