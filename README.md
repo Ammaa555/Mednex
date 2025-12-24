@@ -135,6 +135,15 @@ It is designed for clarity, fast interpretation, and long-term tracking.
 
 <img width="1872" height="874" alt="image" src="https://github.com/user-attachments/assets/319941e1-594d-46d2-b923-53354960ab5e" />
 
+<h2>Main Features</h2>
+<img width="1885" height="819" alt="image" src="https://github.com/user-attachments/assets/a7edcc6d-1ff3-465c-818e-51edbfa4ac35" />
+
+
+<h2>📊 Health Tracker</h2>
 <img width="1867" height="877" alt="image" src="https://github.com/user-attachments/assets/055061e0-60db-4ce2-8d6b-e28fcafed3e5" />
+
+<h2>⚖️ BMI Calculator</h2>
+<img width="1891" height="824" alt="image" src="https://github.com/user-attachments/assets/b75ae0eb-a71c-4f69-961e-a1ba981d477c" />
+
 
 
